@@ -1,0 +1,74 @@
+body{
+   background-image: url("/sistema/img/black.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+    color: #fff;
+    height: 200px;
+
+}
+.panel.panel-custom{
+    cursor: pointer;
+    background-clip: content-box;
+    border:2px dashed #0071BF;
+    margin-top: 20%;
+    opacity: 0.9
+
+}
+.panel.panel-custom{
+    border-style: solid;
+}
+.panel.panel-custom .panel-heading img{
+     margin: 0 auto;
+    width: 250px;
+}
+.panel.panel-custom .panel-body {
+    background: #525252;
+    color: #000;
+  ;
+   }
+
+.panel-heading{
+    background-color: black;
+}
+.btn-success{
+    background-color: #2b2626;
+    border-color: #0071BF;
+    opacity: none;
+}
+#fonte{
+  text-shadow:#000 1px 1px 1px;
+}
+
+#botao{
+  border-color: #17a2b8;
+ 
+}
+
+#nav{
+   background: #525252;
+   opacity: 0.9;
+   text-shadow:#000 1px 1px 1px;
+}
+#h1{
+  text-align: center;
+  text-shadow:#000 1px 1px 1px;
+  background: #525252;
+   opacity: 0.9;
+}
+
+#alerte{  
+   background: #31363e;
+   opacity: 0.9;
+   color: #17a2b8;
+   text-shadow:#000 1px 1px 1px;
+   border-color: #17a2b8;
+   width: 400px;
+  margin: auto;
+  margin-top: 20px;
+}
+#l{
+  text-align: center;
+  font-size: 30px;
+  width: 400px;
+  margin: auto;
+}
