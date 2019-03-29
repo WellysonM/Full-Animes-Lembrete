@@ -14,6 +14,9 @@ os codigos estão disponivel para download apenas de o credito do autor.
 
 lembre-se de executar o Xampp ou o Wamp caso baixe o site e queira executar na maquina local
 
+o site tem diferença de usuarios padrão e administrador que é criado apenas via banco, usuarios novos são criados 
+por padrão com o acesso apenas de criar lembretes.
+
 ## Tecnologias
 
 - HTML
